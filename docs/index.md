@@ -1,6 +1,4 @@
----
-is_project_page: false
----
+
 
 ## Who loves Cecile?
 
